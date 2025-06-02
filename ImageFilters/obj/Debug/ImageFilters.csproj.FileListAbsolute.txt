@@ -1,0 +1,37 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.ZGraphForm.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFil.606AFC6C.Up2Date
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\ahmed\Downloads\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFil.606AFC6C.Up2Date
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\University\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
